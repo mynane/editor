@@ -1,0 +1,12 @@
+.idea
+logs
+*.log
+*.log.*
+node_modules/
+doc/
+_book/
+coverage/
+lib/
+dist/
+packages/
+examples/build
